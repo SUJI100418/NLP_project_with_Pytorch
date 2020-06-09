@@ -81,7 +81,7 @@ linear.eval()
 linear.train()
 # 다시 학습 재시작..습
 
-# 6. GPU 사용하기, 텐서와 모델을 gpu 메모리로 보낸다.
+# 7. GPU 사용하기, 텐서와 모델을 gpu 메모리로 보낸다.
 '''
 x = torch.cuda.FloatTensor(16,10) # 텐서를 gpu 메모리에 생성한다. (복사 혹은 이)
 linear = MyLinear(10,5)
