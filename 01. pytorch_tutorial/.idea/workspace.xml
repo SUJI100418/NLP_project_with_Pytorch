@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d618ba3-93e1-469c-b1aa-df675213343c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d5XXWFV9nHShHjRsNesx7n6gM3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="pytorch_tutorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nlp_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytorch_tutorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pytorch_tutorial" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d618ba3-93e1-469c-b1aa-df675213343c" name="Default Changelist" comment="" />
+      <created>1591715967490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591715967490</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1414" height="191" key="GridCell.Tab.0.bottom" timestamp="1591719081161">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1414" height="191" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1591719081161" />
+    <state width="1414" height="191" key="GridCell.Tab.0.center" timestamp="1591719081161">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1414" height="191" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1591719081161" />
+    <state width="1414" height="191" key="GridCell.Tab.0.left" timestamp="1591719081161">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1414" height="191" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1591719081161" />
+    <state width="1414" height="191" key="GridCell.Tab.0.right" timestamp="1591719081161">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1414" height="191" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1591719081161" />
+    <state x="173" y="23" key="SettingsEditor" timestamp="1591717011730">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="173" y="23" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1591717011730" />
+    <state x="301" y="23" key="search.everywhere.popup" timestamp="1591716757349">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="301" y="23" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1591716757349" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/02. wordnet, tf-idf" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04. text classification" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06. cnn_mnist" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.7 (pytorch)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
